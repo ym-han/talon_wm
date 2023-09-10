@@ -74,7 +74,7 @@ splits = {
     'top-left':     Rect(0.0, 0.0, 0.5, 0.5),
 }
 
-grid_spec = GridSpec(8, 6)
+grid_spec = GridSpec(16, 12)
 
 grid_margin = 4
 
